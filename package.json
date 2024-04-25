@@ -1,0 +1,29 @@
+{
+  "name": "testevercel",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoFernandoSilvaGoncalves/testeVercel.git"
+  },
+  "keywords": [
+    "vercel",
+    "node",
+    "deploy"
+  ],
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoFernandoSilvaGoncalves/testeVercel/issues"
+  },
+  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/testeVercel#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
